@@ -1,0 +1,10 @@
+
+
+*.idx
+**/debug
+**/release
+*.user
+**/Makefile*
+**/.qmake.stash
+**/.qtc_clangd
+**/ui_*
